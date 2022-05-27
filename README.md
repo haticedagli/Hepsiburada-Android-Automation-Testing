@@ -47,6 +47,14 @@ I'm a software test engineer at Teknasyon...
 
 
 ## 🔗 Reports
-Error-caught test run
+
+During the tests, errors were found in the error messages received when logging in with an incorrect password in unsuccessful login scenarios.
+
+While waiting for the "Entered password is incorrect" message, "an unexpected error has occurred" message is displayed.
+
+Error-caught test runs
 - [@ReportsCucumber](https://reports.cucumber.io/reports/20bc8ee9-2317-4377-95c3-9d4a700e1d2d)
+- [@ReportsCucumber](https://reports.cucumber.io/reports/6847a8fe-a861-46d5-b79e-9cb13b869578)
+
+
 
