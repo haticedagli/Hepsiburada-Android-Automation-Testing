@@ -48,17 +48,24 @@ I'm a software test engineer at Teknasyon...
 
 ## 🔗 Reports
 
+Successful runs
+- [@ReportsCucumber](https://reports.cucumber.io/reports/50527a4b-8155-47d8-a85e-bde4162f813c)
+
+![screencapture-reports-cucumber-io-reports-50527a4b-8155-47d8-a85e-bde4162f813c-2022-05-28-00_56_55](https://user-images.githubusercontent.com/62377943/170794319-6e9fa33b-a513-4d8c-8aec-3cf6a9626986.png)
+
+<img width="1440" alt="Screen Shot 2022-05-28 at 00 34 34" src="https://user-images.githubusercontent.com/62377943/170792091-6097191d-9ec5-4478-b617-89119c10333d.png">
+
+-------------
+
 During the tests, errors were found in the error messages received when logging in with an incorrect password in unsuccessful login scenarios.
 
 While waiting for the "Entered password is incorrect" message, "an unexpected error has occurred" message is displayed.
 
 Error-caught test runs
 - [@ReportsCucumber](https://reports.cucumber.io/reports/20bc8ee9-2317-4377-95c3-9d4a700e1d2d)
+
+![screencapture-reports-cucumber-io-reports-20bc8ee9-2317-4377-95c3-9d4a700e1d2d-2022-05-28-00_55_44](https://user-images.githubusercontent.com/62377943/170794156-47264b61-769b-469c-82f7-7dc5cbd0d56d.png)
+
 - [@ReportsCucumber](https://reports.cucumber.io/reports/6847a8fe-a861-46d5-b79e-9cb13b869578)
 
-Successful runs
-- [@ReportsCucumber](https://reports.cucumber.io/reports/50527a4b-8155-47d8-a85e-bde4162f813c)
-
-<img width="1440" alt="Screen Shot 2022-05-28 at 00 34 34" src="https://user-images.githubusercontent.com/62377943/170792091-6097191d-9ec5-4478-b617-89119c10333d.png">
-
-
+![screencapture-reports-cucumber-io-reports-6847a8fe-a861-46d5-b79e-9cb13b869578-2022-05-28-00_56_29](https://user-images.githubusercontent.com/62377943/170794283-223c6cf2-747c-4259-89dd-09691541d23a.png)
