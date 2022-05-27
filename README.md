@@ -56,5 +56,9 @@ Error-caught test runs
 - [@ReportsCucumber](https://reports.cucumber.io/reports/20bc8ee9-2317-4377-95c3-9d4a700e1d2d)
 - [@ReportsCucumber](https://reports.cucumber.io/reports/6847a8fe-a861-46d5-b79e-9cb13b869578)
 
+Successful runs
+- [@ReportsCucumber](https://reports.cucumber.io/reports/50527a4b-8155-47d8-a85e-bde4162f813c)
+
+<img width="1440" alt="Screen Shot 2022-05-28 at 00 34 34" src="https://user-images.githubusercontent.com/62377943/170792091-6097191d-9ec5-4478-b617-89119c10333d.png">
 
 
