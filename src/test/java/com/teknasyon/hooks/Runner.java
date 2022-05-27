@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         features = {"classpath:features"},
-        glue = {"com.trendyol"},
+        glue = {"com.teknasyon"},
         //tags = "@Browser",
         monochrome=true,
         plugin = {"pretty", "html:target/cucumber"}
